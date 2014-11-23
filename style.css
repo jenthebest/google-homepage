@@ -1,0 +1,23 @@
+#logo {
+	height: 95px;
+	width: 269px;
+	margin: 200px 0 0 510px;
+}
+
+#searchbar {
+	height: 28px;
+	width: 600px;
+	margin: 10px 0 10px 340px;
+}
+
+button {
+	padding: 5px;
+	font-size: 11px;
+	font-family: Arial,sans-serif;
+	font-weight: medium-bold;
+	
+}	
+
+.GS {
+	margin: 10px 10px 0 530px;
+}
